@@ -5,8 +5,8 @@ const cors = require("cors");
 const app = express();
 
 let bot = {
-  TOKEN: "5880839742:AAHrMKoEHQVZg4mWRKvvWN6ObN2tNRIYcLI",
-  CHATID: "-888530920",
+  TOKEN: "5643275944:AAFG35KYceeexDKiumpc76JUoBW4pB6g7LA",
+  CHATID: "-882650027",
 };
 
 app.use(bodyParser.json());
